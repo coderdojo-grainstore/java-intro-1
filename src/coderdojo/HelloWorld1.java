@@ -2,6 +2,7 @@ package coderdojo;
 
 import java.util.Scanner;
 
+// Hello world1
 public class HelloWorld1
 {
 	//
